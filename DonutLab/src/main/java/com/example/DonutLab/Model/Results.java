@@ -8,7 +8,14 @@ public class Results {
 	private String name;
 	private int calories;
 	private List<String> extras;
-
+	private String photo;
+	
+	public String getPhoto() {
+		return photo;
+	}
+	public void setPhoto(String photo) {
+		this.photo = photo;
+	}
 	public int getId() {
 		return id;
 	}

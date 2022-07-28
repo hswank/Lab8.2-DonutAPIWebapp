@@ -20,6 +20,6 @@ Extras:
 		<li>${extra}</li>
 	</c:forEach>
 </ul>
-
+<img src="${donut.photo}" width=300px>
 </body>
 </html>

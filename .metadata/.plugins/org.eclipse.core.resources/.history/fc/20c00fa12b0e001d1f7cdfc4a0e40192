@@ -1,0 +1,6 @@
+package com.example.DonutLab.Model;
+
+public class DonutResponse {
+	private int count;
+	private Results[] results;
+}
